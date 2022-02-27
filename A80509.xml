@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a most pithy and pious letter, vvritten by a faithfull subject of this kingdom, to James Usher Archbishop of Armagh, to perswade our king to return with speed in peace to his Parliament. Published by authority.</title>
+            <author>Faithfull subject of this kingdom.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80509</idno>
+            <idno type="STC">Wing C6178</idno>
+            <idno type="STC">Thomason E292_20</idno>
+            <idno type="STC">ESTC R200149</idno>
+            <idno type="EEBO-CITATION">99860954</idno>
+            <idno type="PROQUEST">99860954</idno>
+            <idno type="VID">113081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113081)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E292[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a most pithy and pious letter, vvritten by a faithfull subject of this kingdom, to James Usher Archbishop of Armagh, to perswade our king to return with speed in peace to his Parliament. Published by authority.</title>
+                  <author>Faithfull subject of this kingdom.</author>
+                  <author>Ussher, James, 1581-1656.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert White.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government, --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113081:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Copy</hi> OF A MOST PITHY AND PIOUS LETTER, VVritten by a faithfull Subject of this Kingdom, to JAMES USHER Arch-Biſhop of ARMAGH, to perſwade our KING to return with ſpeed in Peace to His PARLIAMENT.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <add>July 10<hi rend="sup">th</hi>
+               </add> LONDON, Printed by <hi>Robert White.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113081:2"/>
+            <pb n="1" facs="tcp:113081:2"/>
+            <opener>
+               <salute>My Lord:</salute>
+            </opener>
+            <p>SO oft as I call to mind and conſider what evident de<g ref="char:EOLhyphen"/>monſtrations you have formerly given to the truly Godly and Religious party in theſe Kingdoms (both by your life and doctrine) that you are one of them: I cannot but admire that you have of late gone out from them,<note place="margin">1 Jo. 2.19.</note> and have not continued with them; eſpecially if you ſhould be a meanes (as ſome do feare you are) of keeping our <hi>King</hi> from them. But truly (my Lord) for mine own part, though I do conclude that you have groſſely failed in this particular act, yet do I ſtill look upon you as a ſecond <hi>Mna<g ref="char:EOLhyphen"/>ſon,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 21.16</note> an old Diſciple: Nevertheleſſe I ſay,<note place="margin">
+                  <hi>Rev.</hi> 2.45.</note> 
+               <hi>I have ſomewhat againſt you, becauſe you have loſt your firſt love. Remember therefore from whence you are fallen, and repent, and do your firſt works.</hi>
+            </p>
+            <p>My Lord, I hope you know, and if you do not, I pray you give me leave to tell you (yea, and I beſeech you alſo to tell our <hi>King</hi>) that the Members of His two Houſes of <hi>Parliament</hi> aſſembled at <hi>Weſtminſter,</hi> together with ſuch as do truly adhere unto them, are for the major part of them <hi>regenerate men,</hi> ſuch as truly know Chriſt, and believe on his name, men fearing God, and eſchewing evill,<note place="margin">
+                  <hi>Job.</hi> 1.1. <hi>Mal.</hi> 3.17.</note> who ſtand for Gods cauſe, and ſeek to advance his glory, and therefore they are his Jewels, who do for Conſcience ſake love and honour their King in their hearts: witneſſe their humble and hearty Petitions to His Majeſtie for his returne to them in Peace; And their many and fervent Prayers which they have and do put up unto God both in Pulpits, Houſes, and private Cloſets, for his welfare both in ſoule and body, and for his happy returne to them in peace and ſafety: Yea, and witneſſe their expending of their eſtates, and adventuring of their lives, not againſt his Majeſtie, but for him, <hi>viz.</hi> for the ſubduing of his evill
+<pb n="2" facs="tcp:113081:3"/>Counſellers, who have ſeduced him, and withdrawn and kept him ſo long from them, that ſo they might reſcue him out of their hands, and bring him home to themſelves in peace and ſafety.</p>
+            <p>And again (my Lord) I hope you are not ignorant (being as it were amongſt them, though I hope none of them) that thoſe who are about His Majeſty, together with ſuch as ſet themſelves againſt His <hi>Parliament,</hi> are to the griefe of your heart (for the major part of them) <hi>unregenerate men,</hi> ſuch as neither truly know Chriſt, nor believe on his name, and the feare of God is not before their eyes.<note place="margin">
+                  <hi>Rom.</hi> 3.18.</note> Are you ſuch a ſtranger to His Majeſties Army (as they by ſome are ſtiled) that you do not know that it is almoſt, if not al<g ref="char:EOLhyphen"/>together made up of profeſſed Papiſts, ſuperſtitious, igno<g ref="char:EOLhyphen"/>rant, and profane perſons, as Swearers, Blaſphemers, Liers, Whoremongers, and as it were, all the wicked of the land, who fight for nothing but Popery, Superſtition, Profane<g ref="char:EOLhyphen"/>neſſe, Carnall liberty, Worldly commodity, and whatſo<g ref="char:EOLhyphen"/>ever tends to the diſhonour of God. And though I have the fame hopes of ſome of them, that I have of you, <hi>viz.</hi> that you love and honour His Majeſty for conſcience ſake: Yet I feare me the number of ſuch are very few. And as for the reſt, if the worldly wiſer ſort of them do ſhew any love and honour to their King, it is but to the end He might love and honour them, and ſo indeed it is themſelves they love and honour, and not their King. And if the ſimpler ſort of them do love and honour him, alas it is but meerly out of an inſtinct in nature; and indeed ſuch as theſe do love and honour their King, more than they do their God, and ſo indeed they make a God, or rather an Idol of their King.</p>
+            <p>My Lord,<note place="margin">2 <hi>Pet.</hi> 2.17</note> you know the Apoſtle <hi>Peter</hi> bids; Firſt <hi>feare God,</hi> and then <hi>honour the King.</hi> Implying, that the man that doth not truly feare God, cannot ſincerely honor the King. And though they ſay many a time, <hi>God ſave your
+<pb n="3" facs="tcp:113081:3"/>Majeſty,</hi> and <hi>God bleſſe our King,</hi> or reade a prayer for him upon a book, yet theſe are but a forme of words, and no true prayer, <hi>For how can they call on him in whom they have not beleeved. Rom.</hi> 10.14.</p>
+            <p>Wherefore (my Lord) I pray you open your eyes and diſcerne between the Righteous and the wicked,<note place="margin">
+                  <hi>Mal.</hi> 3.8.</note> between him that ſerveth God, and him that ſerveth him not, and go out to meete the King,<note place="margin">2 <hi>Chro.</hi> 19.2.</note> and ſay unto him as <hi>Iehu</hi> the ſon of <hi>Hanani</hi> the Seer ſaid unto King <hi>Iehoſhaphat, Shouldeſt thou help the ungodly, and love them that hate the Lord?</hi> and be<g ref="char:EOLhyphen"/>ſeech His Majeſty rather to ſay with godly King <hi>David,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 139.21.22.</note> 
+               <hi>Do not I hate them O Lord that hate thee, and am not I grieved with thoſe that riſe up againſt thee? I hate them with perfect hatred, and count them mine enemies:</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 119.115.</note> 
+               <hi>wherefore depart from me ye evil doers, for I will keep the Commandements of my God: A froward heart ſhall depart from me; I will not know a wicked perſon, mine eyes ſhall be upon the faithfull of the land,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 101.4.6.</note> 
+               <hi>that they may dwell with me; he that walketh in a perfect way ſhall ſerve me,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 16.2.3.</note> 
+               <hi>for my goodneſſe extendeth unto the Saints that are in the earth, in whom is all my delight.</hi> And put His Majeſty in mind how godly King <hi>Ioſiah,</hi> in going out to war againſt the minde of God, was ſlaine in the Valley of <hi>Megiddo;</hi>
+               <note place="margin">2 <hi>Chro.</hi> 35.21.22. <hi>Dan.</hi> 4.27.</note> and then ſay unto him, <hi>Wherefore O King let my Councell be acceptable unto you, breake off thy ſinnes by Righteouſneſſe, and returne in Peace with ſpeed to your Parliament:</hi> And that he may be the more willing ſo to do, I beſeech you aſſure His Majeſty, that it would be very well pleaſing to God, and very comfortable to his two Houſes of Parliament, and very joyfull newes to all his Subjects, except ſuch as have deſerved to feele the hand of Juſtice: And who can deviſe a ſurer and ſpeedier way for the putting an end to theſe miſerable warres, &amp; ſetling a firme and happy peace, &amp; pre<g ref="char:EOLhyphen"/>venting the ſhedding of more innocent blood, then His Ma<g ref="char:EOLhyphen"/>jeſties returne would be; nay can any man find out a more
+<pb n="4" facs="tcp:113081:4"/>ſpeedy and ſurer way to His Majeſties own Honour and ſafety, then this would be, judge in your ſelfe my Lord) whether this will not redound much to the Honour of our King, when it ſhall be ſaid for the preſent, and written for the future, that <hi>Charles</hi> the firſt King of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> &amp;c. being ſeduced by evil Counſell, did for a time make warre againſt his Parliament, but then afterwards pittying the lamentable condition that his good Subjects were thereby brought into, did of his own ac<g ref="char:EOLhyphen"/>cord, againſt the minde of the ſame evil Counſell, returne unto His Parliament in Peace, and ſo put an end unto it. And how can the head be more in ſafety, then when the armes and hands of the body are neareſt to defend it: And O what abundance of love would His Majeſty gaine from all his faithfull and true hearted ſubjects by ſuch a returne to his Parliament! And truly (my Lord) if you ſhould be a means of it, we ſhould love you dearly, wherefore allude<g ref="char:EOLhyphen"/>ing to the words of <hi>Mordecai</hi> to <hi>Heſter,</hi> I ſay unto you my Lord,<note place="margin">
+                  <hi>Eſt.</hi> 4.8.14.</note> 
+               <hi>Go in unto the King to make ſupplication unto him, and to make requeſt before him for his people:</hi> And who knoweth whether you went to the Kings quartes for ſuch a time as this. And if His Majeſty, through the ſeducement of evil Counſell, object, that the Members of the two Houſes of Parliament, with ſuch as do adhere unto them, are a com<g ref="char:EOLhyphen"/>pany, of Sciſmaticall, Factious, Rebellious, Traiterous perſons, ſuch as ſeek to take away his life, ſubvert his Lawes, and alter his Religion. Then my Lord, I hope you know how to make anſwer, if you do not, then I pray you ſuffer an <hi>Aquilla</hi> to give unto an <hi>Apollo,</hi> a word of advice; put His Majeſty in minde, that it is neither a new, nor a ſtrange courſe for wicked and ungodly men, to ren<g ref="char:EOLhyphen"/>der the deare ſervants of God unto their Kings and Prin<g ref="char:EOLhyphen"/>ces, under theſe or the like opprobrious titles: witneſſe the teſtimony of Holy Writ; for did not wicked <hi>Rehum</hi>
+               <pb n="5" facs="tcp:113081:4"/>the Chancellor,<note place="margin">
+                  <hi>Eſra</hi> 4.15.</note> and <hi>Shimſhai</hi> the Scribe write unto the King in <hi>Nehemiahs</hi> time, <hi>That the people of God were arebel<g ref="char:EOLhyphen"/>lious people, hurtfull to Kings and Provinces, and movers of ſe<g ref="char:EOLhyphen"/>dition.</hi> And did not wicked <hi>Haman</hi> tell the King, that Re<g ref="char:EOLhyphen"/>ligious <hi>Mordecai,</hi> and the reſt of Gods people <hi>had Lawes diverſe from all people, and kept not the Kings Laws,</hi>
+               <note place="margin">
+                  <hi>Eſt.</hi> 3.8.</note> 
+               <hi>and that therefore it was not for the Kings profit to ſuffer them?</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 3.12. &amp; 6.13.</note> And did not the wicked and ungodly men in <hi>Daniels</hi> time ac<g ref="char:EOLhyphen"/>cuſe him, and the other three deare ſervants of God, That <hi>they neither regarded the King, nor his Decree?</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 24.5. <hi>Act.</hi> 16.20.21. <hi>Act.</hi> 17.6.</note> And was not <hi>Paul,</hi> and the reſt of the holy Apoſtles accuſed before the Governours, to be <hi>peſtilent fellowes, movers of ſedition, trou<g ref="char:EOLunhyphen"/>blers of Cities, teachers of Cuſtomes which are not lawfull, and ſuch as turned the World up-ſide down?</hi>
+            </p>
+            <p>Wherefore (my Lord) I beſeech you give His Majeſty to underſtand, that they are no ſuch men as he is informed they are,<note place="margin">
+                  <hi>Dan.</hi> 4.22.</note> foraſmuch as before God innocencie is found in them, and alſo before their King they have done no hurt, they deſire no other King to Rule and Governe theſe Kingdomes, then His Majeſty, nor no other Lawes then are, and what he ſhall confirme: And as for Religion, they neither have nor yet intend to alter the ſubſtance of it at all, for though They have, and ſhall deſire His Ma<g ref="char:EOLhyphen"/>jeſty, to put down Epiſcopacy and Service-book, yet (my Lord. I hope you know (if not, I beſeech you give me leave to tell you) that neither Biſhop nor Service-book, are any part of the ſubſtance of the true Proteſtant Religi<g ref="char:EOLhyphen"/>on. Nay let me tell your Lordſhip more, though there be too much diſcord amongſt the truly godly, yet is it but a<g ref="char:EOLhyphen"/>bout ſome circumſtantiall points, and I doubt not but God will reconcile them in due time.</p>
+            <p>Wherefore, beſeech His Majeſty,<note place="margin">
+                  <hi>Act.</hi> 5.35.38.</note> to take heed what he intends to do as touching theſe men; nay, let him refrain from theſe men, and let them alone, for their Counſell
+<pb n="6" facs="tcp:113081:5"/>and their work is of God, and therefore it cannot be over<g ref="char:EOLhyphen"/>thrown, ſo that although for the tryall of their faith and patience, and the hardning of their enemies, the Lord ſuffer them now and then to be put to the worſt in battell, yet ſhall they at laſt be more then Conquerers through Chriſt that loveth them,<note place="margin">
+                  <hi>Rom</hi> 8.37.</note> maugre the malice of all gainſayers and oppoſers.</p>
+            <p>Thus my Lord you ſee I have preſumed to put you in minde of your duty,<note place="margin">Phile. v. <hi>21.</hi>
+               </note> having confidence in your obedience, knowing that you will alſo do more then I ſay, the which the Lord work in you, both to will and to do, even of his good pleaſure, Amen.</p>
+            <p>The Lord of Heaven, in whoſe hands is the heart of all Kings,<note place="margin">
+                  <hi>Pro.</hi> 21.1.</note> perſwade our Kings heart to beleeve theſe things, and bring him home in Peace to his Parliament, Amen.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
